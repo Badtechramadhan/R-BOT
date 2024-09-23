@@ -56,9 +56,9 @@ global.APIKeys = { // APIKey Here
 global.sig = 'https://instagram.com/rasssya766'
 global.syt = 'https://youtube.com/@RamaGans'
 global.sgh = 'https://github.com/rasssya766'
-global.sgc = 'https://chat.whatsapp.com/Bd2mN13f4QV7Mu1vtZ0NuP'
-global.sdc = 'https://wa.me/6282142108243'
-global.swa = 'wa.me/682214729677'
+global.sgc = 'https://chat.whatsapp.com/HnwIAeT8fl71pjE3ZvTpdX'
+global.sdc = 'https://wa.me/256788028745'
+global.swa = 'wa.me/256788028745'
 global.swb = 'https://discord.gg/'
 global.snh = '-' //Make ini aja gausah di ganti.
 
@@ -71,18 +71,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62821421082436'
-global.nomorown = '6282142108243'
+global.nomorbot = '256788028745'
+global.nomorown = '256788028745'
 global.namebot = 'R-BOT'
 global.nameown = 'R?'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282142108243'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282142108243', 'R?', true]
+  ['256788028745'],
+  ['256788028745'],
+  ['256788028745'],
+  ['256788028745', 'R?', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,15 +115,15 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 
 // Sticker WM
-global.packname = `Your`
-global.author = ''
+global.packname = 'Ramah sage'
+global.author = 'Ramah Sage'
 global.nameB = 'RMproJET'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'FollowIG ; rasssya766'
+global.me = 'FollowIG ; Ramadhan0011'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
