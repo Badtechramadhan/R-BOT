@@ -71,18 +71,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '256788028745'
-global.nomorown = '256788028745'
+global.nomorbot = '256703025571'
+global.nomorown = '256703025571'
 global.namebot = 'R-BOT'
 global.nameown = 'R?'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['256788028745'],
-  ['256788028745'],
-  ['256788028745'],
-  ['256788028745', 'R?', true]
+  ['256703025571'],
+  ['256703025571'],
+  ['256703025571'],
+  ['256703025571', 'R?', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
